@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Working On StaggeredGridView</string>
+
+    <integer-array  name="imageResources">
+        <item>@drawable/thumbnail_01</item>
+        <item>@drawable/thumbnail_02</item>
+        <item>@drawable/thumbnail_03</item>
+        <item>@drawable/thumbnail_04</item>
+        <item>@drawable/thumbnail_05</item>
+        <item>@drawable/thumbnail_06</item>
+        <item>@drawable/thumbnail_07</item>
+        <item>@drawable/thumbnail_08</item>
+        <item>@drawable/thumbnail_09</item>
+        <item>@drawable/thumbnail_10</item>
+        <item>@drawable/thumbnail_11</item>
+    </integer-array>
+
+    <string-array name="thumbnailTitles">
+        <item>Thumbnail 01</item>
+        <item>Thumbnail 02</item>
+        <item>Thumbnail 03</item>
+        <item>Thumbnail 04</item>
+        <item>Thumbnail 05</item>
+        <item>Thumbnail 06</item>
+        <item>Thumbnail 07</item>
+        <item>Thumbnail 08</item>
+        <item>Thumbnail 09</item>
+        <item>Thumbnail 10</item>
+        <item>Thumbnail 11</item>
+    </string-array>
+</resources>
